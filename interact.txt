@@ -1,1 +1,2 @@
 this is a repository for test git with github.com
+this is new line for pushing from cloned repo.
